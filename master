@@ -25,6 +25,6 @@ copyButton.addEventListener("click", (event) => {
 
   // after 1 second, set button text back
   setTimeout(() => {
-    buttonText.textContent = "Copied to Webstudio";
+    buttonText.textContent = "Copy to Webflow";
   }, 1000);
 });
